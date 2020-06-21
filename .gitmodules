@@ -16,3 +16,6 @@
 [submodule "places-info-gateway"]
 	path = places-info-gateway
 	url = https://github.com/artamonova-aleksandra/places-info-gateway
+[submodule "third-party-application"]
+	path = third-party-application
+	url = https://github.com/artamonova-aleksandra/third-party-application
