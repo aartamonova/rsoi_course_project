@@ -1,0 +1,3 @@
+[submodule "places-info"]
+	path = places-info
+	url = https://github.com/artamonova-aleksandra/places-info.git
