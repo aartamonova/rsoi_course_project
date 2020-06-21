@@ -1,3 +1,18 @@
 [submodule "places-info"]
 	path = places-info
 	url = https://github.com/artamonova-aleksandra/places-info.git
+[submodule "places-info-auth"]
+	path = places-info-auth
+	url = https://github.com/artamonova-aleksandra/places-info-auth
+[submodule "places-info-tags"]
+	path = places-info-tags
+	url = https://github.com/artamonova-aleksandra/places-info-tags
+[submodule "places-info-places"]
+	path = places-info-places
+	url = https://github.com/artamonova-aleksandra/places-info-places
+[submodule "places-info-statistic"]
+	path = places-info-statistic
+	url = https://github.com/artamonova-aleksandra/places-info-statistic
+[submodule "places-info-gateway"]
+	path = places-info-gateway
+	url = https://github.com/artamonova-aleksandra/places-info-gateway
